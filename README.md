@@ -143,14 +143,29 @@
     <div id="cern" class="sub-section hidden">
       <h4>CERN</h4>
       <p>Another unforgettable experience was when I had the opportunity to visit CERN and explore Europe. This trip was incredibly special because I got to visit many beautiful and historic places such as the Trevi Fountain, Vatican City, the Pantheon, and the Boboli Gardens, among many others. Each place was filled with fascinating history and amazing sights. There were 10 students and 2 teachers, and together we made a lot of wonderful memories during this journey.</p>
+      
       <div class="gallery">
-        <img src="https://i.imgur.com/NqNtpS0.jpeg" alt="Europe trip 1">
-        <img src="https://i.imgur.com/czr81DN.jpeg" alt="Painting">
-        <img src="https://i.imgur.com/wI3GmUZ.jpeg" alt="Painting">
-        <img src="https://i.imgur.com/qYdO0Nv.jpeg" alt="Group photo">
-        <img src="https://i.imgur.com/shqRtpK.jpeg" alt="Geneva">
-        <img src="https://i.imgur.com/gd6DzcK.jpeg" alt="Geneva">
-        <img src="https://i.imgur.com/iVgl4ld.jpeg" alt="Group photo">
+        <div class="image-container">
+          <img src="https://i.imgur.com/NqNtpS0.jpeg" alt="Europe trip 1">
+        </div>
+        <div class="image-container">
+          <img src="https://i.imgur.com/czr81DN.jpeg" alt="Painting">
+        </div>
+        <div class="image-container">
+          <img src="https://i.imgur.com/wI3GmUZ.jpeg" alt="Painting">
+        </div>
+        <div class="image-container">
+          <img src="https://i.imgur.com/qYdO0Nv.jpeg" alt="Group photo">
+        </div>
+        <div class="image-container">
+          <img src="https://i.imgur.com/shqRtpK.jpeg" alt="Geneva">
+        </div>
+        <div class="image-container">
+          <img src="https://i.imgur.com/gd6DzcK.jpeg" alt="Geneva">
+        </div>
+        <div class="image-container">
+          <img src="https://i.imgur.com/iVgl4ld.jpeg" alt="Group photo">
+        </div>
       </div>
     </div>
 
