@@ -126,8 +126,8 @@
 
     <p>I currently study at The Royal Academy, located in Paro, Bhutan. One of the most memorable moments in my school journey was in the sixth grade, when I had the amazing opportunity to attend the winter camp. That experience was truly special and led to my selection to study at The Royal Academy.</p>
     <div class="centered-image">
-  <img src="https://i.imgur.com/NsZAdoB.jpeg" alt="Grademate">
-</div>
+      <img src="https://i.imgur.com/NsZAdoB.jpeg" alt="Grademate">
+    </div>
     <div class="gallery">
       <img src="https://i.imgur.com/S1PMXdb.jpeg" alt="Students">
       <img src="https://i.imgur.com/ZPpWt6g.jpeg" alt="Scouts Camp">
@@ -137,11 +137,10 @@
       <img src="https://i.imgur.com/dgFgYM5.jpeg" alt="Teachers day">
       <img src="https://i.imgur.com/BdiUc7i.jpeg" alt="Teachers day">
       <img src="https://i.imgur.com/QWdkv6z.jpeg" alt="Us">
-
     </div>
 
     <!-- CERN Subsection -->
-    <div id="cern" class="sub-section">
+    <div id="cern" class="sub-section hidden">
       <h4>CERN</h4>
       <p>Another unforgettable experience was when I had the opportunity to visit CERN and explore Europe. This trip was incredibly special because I got to visit many beautiful and historic places such as the Trevi Fountain, Vatican City, the Pantheon, and the Boboli Gardens, among many others. Each place was filled with fascinating history and amazing sights. There were 10 students and 2 teachers, and together we made a lot of wonderful memories during this journey.</p>
       <div class="gallery">
@@ -152,7 +151,6 @@
         <img src="https://i.imgur.com/shqRtpK.jpeg" alt="Geneva">
         <img src="https://i.imgur.com/gd6DzcK.jpeg" alt="Geneva">
         <img src="https://i.imgur.com/iVgl4ld.jpeg" alt="Group photo">
-
       </div>
     </div>
 
@@ -162,33 +160,32 @@
       <div style="text-align:center; margin-bottom:40px;">
        <div class="image-container" style="width:150px; height:150px; margin:auto;">
             <img src="https://i.imgur.com/jW43gWp.jpeg" alt="Thinley Dorji">
- 
-        <div class="overlay">Thinley Dorji</div>
-          </div>
+            <div class="overlay">Thinley Dorji</div>
         </div>
-        <p><strong>Mentees:</strong></p>
-        <div class="mentees-grid">
-          <div class="image-container"><img src="https://i.imgur.com/ILXj1cB.png" alt="Yeshey Lhamo"><div class="overlay">Yeshey Lhamo</div></div>
-          <div class="image-container"><img src="https://i.imgur.com/yd1PgHD.png" alt="Kinley Sonam"><div class="overlay">Kinley Sonam</div></div>
-          <div class="image-container"><img src="https://i.imgur.com/Sb4d1Wq.png" alt="Dhan Bhadur Rana Mongar"><div class="overlay">Dhan Bhadur Rana Mongar</div></div>
-          <div class="image-container"><img src="https://i.imgur.com/HwlKh32.png" alt="Jigme Thinley Namgyel"><div class="overlay">Jigme Thinley Namgyel</div></div>
-          <div class="image-container"><img src="https://i.imgur.com/SmUh4yD.png" alt="Dorji Yangzom"><div class="overlay">Dorji Yangzom</div></div>
-          <div class="image-container"><img src="https://i.imgur.com/Wtx6fOe.png" alt="Ashman Pakhring"><div class="overlay">Ashman Pakhring</div></div>
-          <div class="image-container"><img src="https://i.imgur.com/M85A5i0.png" alt="Chhimi Dorji"><div class="overlay">Chhimi Dorji</div></div>
-          <div class="image-container"><img src="https://i.imgur.com/RvaVNXN.png" alt="Jigme Wangmo"><div class="overlay">Jigme Wangmo</div></div>
-          <div class="image-container"><img src="https://i.imgur.com/UiCTY4l.png" alt="Ngawang Sonam Dolkar"><div class="overlay">Ngawang Sonam Dolkar</div></div>
-          <div class="image-container"><img src="https://i.imgur.com/LPaPEyl.png" alt="Muskan Karki"><div class="overlay">Muskan Karki</div></div>
-          <div class="image-container"><img src="https://i.imgur.com/0CNhaUv.png" alt="Kuenga Yangdon"><div class="overlay">Kuenga Yangdon</div></div>
-          <div class="image-container"><img src="https://i.imgur.com/BVYov0S.png" alt="Jigten Gyembo"><div class="overlay">Jigten Gyembo</div></div>
-        </div>
-        <p>For me, the mentor-mentee is a place where I can share my problems openly, and I always feel heard and supported.
+      </div>
+      <p><strong>Mentees:</strong></p>
+      <div class="mentees-grid">
+        <div class="image-container"><img src="https://i.imgur.com/ILXj1cB.png" alt="Yeshey Lhamo"><div class="overlay">Yeshey Lhamo</div></div>
+        <div class="image-container"><img src="https://i.imgur.com/yd1PgHD.png" alt="Kinley Sonam"><div class="overlay">Kinley Sonam</div></div>
+        <div class="image-container"><img src="https://i.imgur.com/Sb4d1Wq.png" alt="Dhan Bhadur Rana Mongar"><div class="overlay">Dhan Bhadur Rana Mongar</div></div>
+        <div class="image-container"><img src="https://i.imgur.com/HwlKh32.png" alt="Jigme Thinley Namgyel"><div class="overlay">Jigme Thinley Namgyel</div></div>
+        <div class="image-container"><img src="https://i.imgur.com/SmUh4yD.png" alt="Dorji Yangzom"><div class="overlay">Dorji Yangzom</div></div>
+        <div class="image-container"><img src="https://i.imgur.com/Wtx6fOe.png" alt="Ashman Pakhring"><div class="overlay">Ashman Pakhring</div></div>
+        <div class="image-container"><img src="https://i.imgur.com/M85A5i0.png" alt="Chhimi Dorji"><div class="overlay">Chhimi Dorji</div></div>
+        <div class="image-container"><img src="https://i.imgur.com/RvaVNXN.png" alt="Jigme Wangmo"><div class="overlay">Jigme Wangmo</div></div>
+        <div class="image-container"><img src="https://i.imgur.com/UiCTY4l.png" alt="Ngawang Sonam Dolkar"><div class="overlay">Ngawang Sonam Dolkar</div></div>
+        <div class="image-container"><img src="https://i.imgur.com/LPaPEyl.png" alt="Muskan Karki"><div class="overlay">Muskan Karki</div></div>
+        <div class="image-container"><img src="https://i.imgur.com/0CNhaUv.png" alt="Kuenga Yangdon"><div class="overlay">Kuenga Yangdon</div></div>
+        <div class="image-container"><img src="https://i.imgur.com/BVYov0S.png" alt="Jigten Gyembo"><div class="overlay">Jigten Gyembo</div></div>
+      </div>
+      <p>For me, the mentor-mentee is a place where I can share my problems openly, and I always feel heard and supported.
  The mentors are like a second family, guiding me with care, understanding, and encouragement. 
           It’s a space where I can ask questions without hesitation, learn from their experiences, and gain valuable advice for both school
           and life. Beyond guidance, it’s a place where I feel safe, valued, and inspired to grow. They celebrate my 
           successes with me, help me overcome challenges, and motivate me to become the best version of myself. 
           Being part of mentor-mentee has taught me the importance of trust, empathy, and building meaningful 
           connections that last a lifetime..</p>
-      </section>
+    </div>
 
   </section>
 
@@ -219,13 +216,11 @@
   // Subnav inside School Life
   function showSubSection(subId){
     const subSections = document.querySelectorAll('#school .sub-section');
-    subSections.forEach(sub => sub.classList.add('hidden'));
-    document.getElementById(subId).classList.remove('hidden');
+    subSections.forEach(sub => sub.classList.add('hidden')); // hide all
+    document.getElementById(subId).classList.remove('hidden'); // show clicked section
     document.getElementById(subId).scrollIntoView({behavior: 'smooth', block: 'start'});
   }
 </script>
 
 </body>
 </html>
-
-
