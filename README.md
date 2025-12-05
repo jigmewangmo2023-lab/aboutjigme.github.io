@@ -173,6 +173,7 @@
       <img src="https://i.imgur.com/BdiUc7i.jpeg" alt="Teachers day">
       <img src="https://i.imgur.com/QWdkv6z.jpeg" alt="Us">
     </div>
+  <p> It is a place where we grow as individuals in every way. From Grades 7 to 12, we follow a curriculum called the Bhutan Baccalaureate Learning Process, which doesn’t just focus on exams, but on developing critical thinking, creativity, and problem solving skills. The Academy brings together students from all 20 Dzongkhags, creating a diverse and vibrant community where we learn to respect different perspectives and work together as a team. Life here isn’t just about academics; we also engage in sports, arts, and community service, which help us grow emotionally, physically, and socially. Our teachers guide us with care and challenge us to reach our best potential while emphasizing important values like honesty, compassion, responsibility, and integrity. Being part of The Royal Academy makes me feel proud because it shapes us into well rounded individuals who are ready to contribute positively to society, while also encouraging us to discover our passions and strengths along the way.</p>
 
     <!-- CERN Subsection -->
     <div id="cern" class="sub-section hidden">
