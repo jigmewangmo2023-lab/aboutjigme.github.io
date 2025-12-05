@@ -20,8 +20,6 @@
   a:hover { color: #5a3d6b; }
 
   header {
-    position: sticky;
-    top: 0;
     background: rgba(168,127,207,0.9);
     padding: 20px 0;
     z-index: 1000;
@@ -140,34 +138,82 @@
     </div>
 
     <!-- CERN Subsection -->
-    <div id="cern" class="sub-section hidden">
-      <h4>CERN</h4>
-      <p>Another unforgettable experience was when I had the opportunity to visit CERN and explore Europe. This trip was incredibly special because I got to visit many beautiful and historic places such as the Trevi Fountain, Vatican City, the Pantheon, and the Boboli Gardens, among many others. Each place was filled with fascinating history and amazing sights. There were 10 students and 2 teachers, and together we made a lot of wonderful memories during this journey.</p>
-      
-      <div class="gallery">
-        <div class="image-container">
-          <img src="https://i.imgur.com/NqNtpS0.jpeg" alt="Europe trip 1">
-        </div>
-        <div class="image-container">
-          <img src="https://i.imgur.com/czr81DN.jpeg" alt="Painting">
-        </div>
-        <div class="image-container">
-          <img src="https://i.imgur.com/wI3GmUZ.jpeg" alt="Painting">
-        </div>
-        <div class="image-container">
-          <img src="https://i.imgur.com/qYdO0Nv.jpeg" alt="Group photo">
-        </div>
-        <div class="image-container">
-          <img src="https://i.imgur.com/shqRtpK.jpeg" alt="Geneva">
-        </div>
-        <div class="image-container">
-          <img src="https://i.imgur.com/gd6DzcK.jpeg" alt="Geneva">
-        </div>
-        <div class="image-container">
-          <img src="https://i.imgur.com/iVgl4ld.jpeg" alt="Group photo">
-        </div>
-      </div>
+<div id="cern" class="sub-section hidden">
+  <h4>CERN</h4>
+
+  <p>Another unforgettable experience was when I had the opportunity to visit CERN and explore Europe. This trip was incredibly special because I got to visit many beautiful and historic places such as the Trevi Fountain, Vatican City, the Pantheon, and the Boboli Gardens, among many others. Each place was filled with fascinating history and amazing sights. There were 10 students and 2 teachers, and together we made a lot of wonderful memories during this journey.</p>
+
+  <div class="gallery">
+    <div class="image-container">
+      <img src="https://i.imgur.com/NqNtpS0.jpeg" alt="Europe trip 1">
     </div>
+    <div class="image-container">
+      <img src="https://i.imgur.com/czr81DN.jpeg" alt="Painting">
+    </div>
+    <div class="image-container">
+      <img src="https://i.imgur.com/wI3GmUZ.jpeg" alt="Painting">
+    </div>
+  </div>
+
+  <p>Our trip started really early on the 7th of November. We left home at 5 AM and had a long journey through Bagdora and Rome before finally landing in Geneva around 2 PM the next day. When we arrived, Mr. Andy from Aiglon College picked us up, and after a two-hour drive to the campus, we settled in and went for dinner in Villars. That night, we even tried bowling for the first time. It was very embarrassing at first, but so much fun! The Aiglon students we met were super friendly, and we all laughed a lot while learning the game.</p>
+
+  <div class="gallery">
+    <div class="image-container">
+      <img src="https://i.imgur.com/qYdO0Nv.jpeg" alt="Group photo">
+    </div>
+    <div class="image-container">
+      <img src="https://i.imgur.com/shqRtpK.jpeg" alt="Geneva">
+    </div>
+    <div class="image-container">
+      <img src="https://i.imgur.com/gd6DzcK.jpeg" alt="Geneva">
+    </div>
+  </div>
+
+  <p>The next day was a hike in the Swiss Alps, and it was honestly breathtaking. The trail had these amazing views of the mountains, and walking through the forested paths felt peaceful and calming. Along the way, we chatted with the Aiglon students about school life, culture, and even science stuff we noticed around us, like how plants grow differently at different heights or how steep the slopes were. That evening, we cooked Swiss fondue and Bhutanese Ema Datshi and it was such a fun way to share our cultures while learning a bit of science and math through cooking.</p>
+
+  <div class="gallery">
+    <div class="image-container">
+      <img src="https://i.imgur.com/7VJnlCn.png" alt="Swiss Alps">
+    </div>
+    <div class="image-container">
+      <img src="https://i.imgur.com/MdDwh3f.png" alt="Swiss Alps">
+    </div>
+  </div>
+
+  <p>Our last day at Aiglon was jam-packed. We tried meditation, attended science classes, built small robots, and even did ice skating for the first time. Some of us fell a lot, but by the end, we were proud we had learned a totally new skill. We also shared our culture with younger students and even got hands-on in anatomy class. It was amazing to see how different learning can be when it’s interactive, fun, and social.</p>
+
+  <div class="gallery">
+    <div class="image-container">
+      <img src="https://i.imgur.com/rxKMCS5.png" alt="Class">
+    </div>
+    <div class="image-container">
+      <img src="https://i.imgur.com/FHw8L5u.png" alt="Class">
+    </div>
+  </div>
+
+  <p>Then came CERN. Three days there felt like stepping into a science movie. Dr. Archana Sharma explained particles, quarks, the Higgs boson, and how they smash particles together to understand the universe. We even made our own tiny bubble chambers and tried virtual experiments. Walking through the labs, seeing parts of detectors, and even meeting scientists was mind-blowing. And the best part? We got to have dinner with the Bhutanese UN Ambassador and explore Geneva a bit too, like the cathedral and the old cannons at L’Ancien Arsenal, before heading to Florence.</p>
+
+  <div class="gallery">
+    <div class="image-container">
+      <img src="https://i.imgur.com/nf28SFZ.png" alt="At CERN">
+    </div>
+  </div>
+
+  <p>Florence was like walking through history. The Uffizi Gallery, Palazzo Vecchio, Ponte Vecchio, Boboli Gardens, and the Accademia Gallery with Michelangelo’s David. Every corner had something amazing. We loved wandering around the streets, seeing art everywhere, and learning about the Renaissance. The Museo Galileo was super cool too seeing old scientific instruments and even Galileo’s finger made science feel alive in history. Finally, Rome. From the Colosseum and Roman Forum to Saint Peter’s Basilica, the Trevi Fountain, and the Pantheon, the city felt like a living museum. Walking through the Holy Door and seeing so many historic sites made the trip feel complete. Even though we couldn’t go inside the Colosseum, seeing it up close was incredible. Throwing coins in the Trevi Fountain and making wishes felt like a perfect way to end the trip.</p>
+
+  <div class="gallery">
+    <div class="image-container">
+      <img src="https://i.imgur.com/uEOF05l.png" alt="Italy">
+    </div>
+    <div class="image-container">
+      <img src="https://i.imgur.com/WsxaPKs.jpeg" alt="Italy">
+    </div>
+    <div class="image-container">
+      <img src="https://i.imgur.com/fQ1RlkT.jpeg" alt="Italy">
+    </div>
+  </div>
+</div>
+
 
     <!-- Mentor-Mentee Subsection -->
     <div id="mentor-mentee" class="sub-section hidden">
@@ -239,5 +285,6 @@
 
 </body>
 </html>
+
 
 
