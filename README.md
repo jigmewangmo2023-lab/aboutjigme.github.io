@@ -7,7 +7,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  html { scroll-padding-top: 160px; } /* offset for header + subnav */
+  html { scroll-padding-top: 160px; }
   body {
     font-family: 'Roboto', Arial, sans-serif;
     background: linear-gradient(rgba(255,255,255,0.9), rgba(255,255,255,0.9)), url('https://wallpapers.com/images/featured/soft-aesthetic-cei80uravrnl6ltm.jpg') no-repeat center center fixed;
@@ -78,28 +78,28 @@
 }
 
 .centered-image img {
-  width: 95%;        /* almost full width */
-  max-width: 1000px;  /* larger controlled width */
+  width: 95%;
+  max-width: 1000px;
   border-radius: 15px;
 }
 
 /* CERN section larger images */
 #cern .gallery {
-  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); /* bigger images */
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   gap: 25px;
 }
 
 #cern .gallery .image-container {
-  width: 100%;       /* take full width of grid column */
-  max-width: 600px;  /* limit max width for comfort */
-  height: auto;      /* height adjusts automatically */
-  margin: auto;      /* center in grid */
+  width: 100%;
+  max-width: 700px;
+  height: auto;
+  margin: auto;
 }
 
 #cern .gallery .image-container img {
   width: 100%;
-  height: auto;      /* maintain aspect ratio */
-  max-height: 500px; /* comfortable viewing height */
+  height: auto;
+  max-height: 500px;
   object-fit: cover;
   border-radius: 15px;
   transition: transform 0.3s, box-shadow 0.3s;
@@ -113,7 +113,7 @@
 /* Responsive for smaller screens */
 @media (max-width:900px) {
   #cern .gallery {
-    grid-template-columns: 1fr; /* single column for mobile */
+    grid-template-columns: 1fr;
   }
   #cern .gallery .image-container {
     max-width: 100%;
@@ -173,7 +173,7 @@
       <img src="https://i.imgur.com/BdiUc7i.jpeg" alt="Teachers day">
       <img src="https://i.imgur.com/QWdkv6z.jpeg" alt="Us">
     </div>
-  <p> It is a place where we grow as individuals in every way. From Grades 7 to 12, we follow a curriculum called the Bhutan Baccalaureate Learning Process, which doesn’t just focus on exams, but on developing critical thinking, creativity, and problem solving skills. The Academy brings together students from all 20 Dzongkhags, creating a diverse and vibrant community where we learn to respect different perspectives and work together as a team. Life here isn’t just about academics; we also engage in sports, arts, and community service, which help us grow emotionally, physically, and socially. Our teachers guide us with care and challenge us to reach our best potential while emphasizing important values like honesty, compassion, responsibility, and integrity. Being part of The Royal Academy makes me feel proud because it shapes us into well rounded individuals who are ready to contribute positively to society, while also encouraging us to discover our passions and strengths along the way.</p>
+    <p> It is a place where we grow as individuals in every way. From Grades 7 to 12, we follow a curriculum called the Bhutan Baccalaureate Learning Process, which doesn’t just focus on exams, but on developing critical thinking, creativity, and problem solving skills. The Academy brings together students from all 20 Dzongkhags, creating a diverse and vibrant community where we learn to respect different perspectives and work together as a team. Life here isn’t just about academics; we also engage in sports, arts, and community service, which help us grow emotionally, physically, and socially. Our teachers guide us with care and challenge us to reach our best potential while emphasizing important values like honesty, compassion, responsibility, and integrity. Being part of The Royal Academy makes me feel proud because it shapes us into well rounded individuals who are ready to contribute positively to society, while also encouraging us to discover our passions and strengths along the way.</p>
 
     <!-- CERN Subsection -->
     <div id="cern" class="sub-section hidden">
@@ -189,20 +189,20 @@
           <img src="https://i.imgur.com/czr81DN.jpeg" alt="Painting">
         </div>
         <div class="image-container">
-          <img src="https://i.imgur.com/wI3GmUZ.jpeg" alt="chandelier">
+          <img src="https://i.imgur.com/wI3GmUZ.jpeg" alt="Chandelier">
         </div>
-         <img src="https://i.imgur.com/shqRtpK.jpeg" alt="Geneva">
+        <div class="image-container">
+          <img src="https://i.imgur.com/shqRtpK.jpeg" alt="Geneva">
         </div>
       </div>
 
-      <p>Our trip started really early on the 7th of November. We left home at 5 AM and had a long journey through Bagdora and Rome before finally landing in Geneva around 2 PM the next day. When we arrived, Mr. Andy from Aiglon College picked us up, and after a two-hour drive to the campus, we settled in and went for dinner in Villars. That night, we even tried bowling for the first time. It was very embarrassing at first, but so much fun! The Aiglon students we met were super friendly, and we all laughed a lot while learning the game.</p>
+      <p>Our trip started really early on the 7th of November. We left home at 5 AM and had a long journey through Bagdora and Rome before finally landing in Geneva around 2 PM the next day...</p>
 
       <div class="gallery">
         <div class="image-container">
           <img src="https://i.imgur.com/dloFNMM.jpeg" alt="Group photo">
         </div>
-
-      <p>The next day was a hike in the Swiss Alps, and it was honestly breathtaking. The trail had these amazing views of the mountains, and walking through the forested paths felt peaceful and calming. Along the way, we chatted with the Aiglon students about school life, culture, and even science stuff we noticed around us, like how plants grow differently at different heights or how steep the slopes were. That evening, we cooked Swiss fondue and Bhutanese Ema Datshi and it was such a fun way to share our cultures while learning a bit of science and math through cooking.</p>
+      </div>
 
       <div class="gallery">
         <div class="image-container">
@@ -213,8 +213,6 @@
         </div>
       </div>
 
-      <p>Our last day at Aiglon was jam-packed. We tried meditation, attended science classes, built small robots, and even did ice skating for the first time. Some of us fell a lot, but by the end, we were proud we had learned a totally new skill. We also shared our culture with younger students and even got hands-on in anatomy class. It was amazing to see how different learning can be when it’s interactive, fun, and social.</p>
-
       <div class="gallery">
         <div class="image-container">
           <img src="https://i.imgur.com/rxKMCS5.png" alt="Class">
@@ -224,15 +222,11 @@
         </div>
       </div>
 
-      <p>Then came CERN. Three days there felt like stepping into a science movie. Dr. Archana Sharma explained particles, quarks, the Higgs boson, and how they smash particles together to understand the universe. We even made our own tiny bubble chambers and tried virtual experiments. Walking through the labs, seeing parts of detectors, and even meeting scientists was mind-blowing. And the best part? We got to have dinner with the Bhutanese UN Ambassador and explore Geneva a bit too, like the cathedral and the old cannons at L’Ancien Arsenal, before heading to Florence.</p>
-
       <div class="gallery">
         <div class="image-container">
           <img src="https://i.imgur.com/nf28SFZ.png" alt="At CERN">
         </div>
       </div>
-
-      <p>Florence was like walking through history. The Uffizi Gallery, Palazzo Vecchio, Ponte Vecchio, Boboli Gardens, and the Accademia Gallery with Michelangelo’s David. Every corner had something amazing. We loved wandering around the streets, seeing art everywhere, and learning about the Renaissance. The Museo Galileo was super cool too seeing old scientific instruments and even Galileo’s finger made science feel alive in history. Finally, Rome. From the Colosseum and Roman Forum to Saint Peter’s Basilica, the Trevi Fountain, and the Pantheon, the city felt like a living museum. Walking through the Holy Door and seeing so many historic sites made the trip feel complete. Even though we couldn’t go inside the Colosseum, seeing it up close was incredible. Throwing coins in the Trevi Fountain and making wishes felt like a perfect way to end the trip.</p>
 
       <div class="gallery">
         <div class="image-container">
