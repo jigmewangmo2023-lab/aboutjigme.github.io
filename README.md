@@ -189,7 +189,9 @@
           <img src="https://i.imgur.com/czr81DN.jpeg" alt="Painting">
         </div>
         <div class="image-container">
-          <img src="https://i.imgur.com/wI3GmUZ.jpeg" alt="Painting">
+          <img src="https://i.imgur.com/wI3GmUZ.jpeg" alt="chandelier">
+        </div>
+         <img src="https://i.imgur.com/shqRtpK.jpeg" alt="Geneva">
         </div>
       </div>
 
@@ -197,15 +199,8 @@
 
       <div class="gallery">
         <div class="image-container">
-          <img src="https://i.imgur.com/qYdO0Nv.jpeg" alt="Group photo">
+          <img src="https://i.imgur.com/dloFNMM.jpeg" alt="Group photo">
         </div>
-        <div class="image-container">
-          <img src="https://i.imgur.com/shqRtpK.jpeg" alt="Geneva">
-        </div>
-        <div class="image-container">
-          <img src="https://i.imgur.com/gd6DzcK.jpeg" alt="Geneva">
-        </div>
-      </div>
 
       <p>The next day was a hike in the Swiss Alps, and it was honestly breathtaking. The trail had these amazing views of the mountains, and walking through the forested paths felt peaceful and calming. Along the way, we chatted with the Aiglon students about school life, culture, and even science stuff we noticed around us, like how plants grow differently at different heights or how steep the slopes were. That evening, we cooked Swiss fondue and Bhutanese Ema Datshi and it was such a fun way to share our cultures while learning a bit of science and math through cooking.</p>
 
@@ -255,6 +250,7 @@
     <!-- Mentor-Mentee Subsection -->
     <div id="mentor-mentee" class="sub-section hidden">
       <h4 style="text-align:center; margin-bottom:30px;">Mentor-Mentee</h4>
+      <h4 style="text-align:center; margin-bottom:30px;">Mentor</h4>
       <div style="text-align:center; margin-bottom:40px;">
        <div class="image-container" style="width:160px; height:160px; margin:auto;">
             <img src="https://i.imgur.com/jW43gWp.jpeg" alt="Thinley Dorji">
